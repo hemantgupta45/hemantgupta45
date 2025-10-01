@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hemantgupta45
 - 👀 I’m interested in Computers & learning new Technologies
-- 🌱 I’m currently Persuing B.tech & a final year student .
-- 💞️ I’m looking to collaborate on Data analysis projects to upskillmyself.
+- 💞️ I’m looking to collaborate on Software development projects to upskillmyself.
 - 📫 How to reach me hemantgupta454545@gmail.com.
 - ⚡ Fun fact: Too much Talkative person.
 
